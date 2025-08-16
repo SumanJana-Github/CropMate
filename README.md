@@ -1,2 +1,2 @@
-# Week-1
-This repository contains files of Week 1 Assignment regarding Edunet Internship for developing a Crop &amp; Fertiliser Recommedation System
+# CropMate
+A machine learning-based Crop Prediction and Fertilizer Recommendation System built with Python. The project analyzes soil parameters, weather conditions, and environmental factors to suggest the most suitable crops and recommend optimal fertilizers, helping improve agricultural productivity and sustainability.
